@@ -1,2 +1,2 @@
 # Credit-Card-Default-Prediction
-A project on whether a credit card will default
+Will the credit card default? - a project on the American Express Credit Card dataset
